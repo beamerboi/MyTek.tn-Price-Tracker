@@ -1,4 +1,5 @@
 # MyTek.tn-Price-Tracker
+Curious about the sale time? well with MyTek.tn Price Tracker all what you need is to link the url of the product you want and the price you want.
 This is a price tracker for the most famous tunisian website for online shopping
 You'll probably need this for your targeting a product or if you are a dropshipping website owner
 
