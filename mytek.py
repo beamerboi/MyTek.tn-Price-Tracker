@@ -34,15 +34,15 @@ def send_mail():
   server.starttls()
   server.ehlo()
 
-  server.login('hiallnigas@gmail.com', 'mdvctlwdusutqxby')
+  server.login('xxxx@gmail.com', 'password')
 
   subject = "Price is fall down"
   body = f'ahlan , \n  el produit taaek cava wsel lel {x}\n odekhel tfaqed l produit taaek mena {URL}'
 
   msg = f"Subject: {subject}\n\n{body}"
   server.sendmail(
-      'hiallnigas@gmail.com',
-      'jemaii.ghassen1@gmail.com',
+      'folen@gmail.com',
+      'flen@gmail.com',
       msg
   )  
   print("THE EMAIL IS SENT!")
